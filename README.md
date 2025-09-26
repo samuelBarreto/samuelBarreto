@@ -10,7 +10,7 @@
 
 **🎯 Missão:** Simplificar Tecnologias do Mundo Real | Construir Aprendizado Prático
 
-**🛠️ Especialista em:** AWS, Azure, GCP, Kubernetes, Docker, Terraform, Ansible, CI/CD e muito mais!
+**🛠️ Analista em:** AWS, GCP, Kubernetes, Docker, Terraform, Ansible, CI/CD e muito mais!
 
 **📚 Paixão:** Ajudar você a construir projetos reais na nuvem
 
