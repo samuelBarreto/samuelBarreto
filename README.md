@@ -66,7 +66,7 @@
 
 ## 🎯 Projetos em Destaque
 
-### 📚 [AWS EKS Kubernetes Masterclass - Guia Completo em Português](./README.md)
+### 📚 [AWS EKS Kubernetes (devop) - Guia Completo em Português](./README.md)
 - ✅ Instalação completa de CLIs (AWS CLI, kubectl, eksctl)
 - ✅ Criação e gerenciamento de clusters EKS
 - ✅ Conceitos fundamentais do Kubernetes
@@ -74,6 +74,8 @@
 - ✅ Load Balancing (CLB, NLB, ALB)
 - ✅ Microserviços e DevOps
 - ✅ Monitoramento e autoscaling
+- ✅ terraform eks (vpc, public/private) elb
+- ✅ terraform ec2 (vpc, public/private)
 
 ---
 
